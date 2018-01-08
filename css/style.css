@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  outline: 0;
+  font-size: 1em;
+}
+
+:root{
+  --red-500: #F44336;
+  --grey-50: #FAFAFA;
+  --grey-800: #424242;
+}
+
+body{
+  background: var(--red-500);
+}
